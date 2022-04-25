@@ -1,2 +1,0 @@
-config-client-service.minBalance=80
-config-client-service.maxBalance=200
